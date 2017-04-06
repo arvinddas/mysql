@@ -1,3 +1,3 @@
-mysql -u testuser -p testuser;
+mysql -utestuser -ptestuser;
 use firstcry;
-mysqldump firstcry > firstcry.sql
+create table ID;
