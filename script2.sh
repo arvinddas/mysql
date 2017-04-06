@@ -1,3 +1,3 @@
-mysql -u testuser -p testuser@123;
+mysql -u root -p root@123!;
 use firstcry;
-mysqldump firstcry > /root/firstcry.sql;
+mysqldump firstcry > firstcry.sql;
